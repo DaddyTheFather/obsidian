@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: obsidian
+name: Obsidian
+tagline: A powerful knowledge base that works on top of a local folder of plain text Markdown files.
+icon: https://obsidian.md/images/logo.svg
+category: Notes
+version: "1.0.0"
+port: 8080
+description: >-
+  Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+
+developer: HedgePay
+website: https://obsidian.md
+submitter: Ed
+submission: https://github.com/DaddyTheFather/obsidian
+repo: https://github.com/DaddyTheFather/obsidian
+support: https://github.com/DaddyTheFather/obsidian/issues
+gallery:
+  - https://obsidian.md/images/screenshot.png
+releaseNotes: >-
+  Initial release of Obsidian on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
