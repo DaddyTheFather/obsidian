@@ -2,7 +2,7 @@ manifestVersion: 1
 id: obsidian
 name: Obsidian
 tagline: A powerful knowledge base that works on top of a local folder of plain text Markdown files.
-icon: https://obsidian.md/images/logo.svg
+icon: https://github.com/obsidianmd/obsidian-plugin-docs/raw/main/static/img/logo.svg  # Updated icon URL
 category: Notes
 version: "1.0.0"
 port: 8080
